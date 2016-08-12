@@ -1,0 +1,16 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Apex to JS",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "jsforce": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "simi tresa antony",
+  "license": "ISC"
+}
